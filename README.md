@@ -31,7 +31,7 @@ Each player chooses one of the three options:
 ## 🚀 Run the Game
 
 1. Clone the repo:
-   git clone https://github.com/yourusername/snake-water-gun-game.git
+   git clone https://github.com/aishwarya-singh03/snake-water-gun-game.git
    cd snake-water-gun-game
 
 2. Run the script:
